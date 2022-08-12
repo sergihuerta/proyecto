@@ -1,0 +1,267 @@
+/*GENERAL*/
+
+body {
+
+	margin:  0px;
+	font-family: Arial;
+}
+
+.cabecera h1 {
+
+	font-size: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+
+}
+
+.menu {
+
+	width: 100%;
+	background-color: navy;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+
+}
+
+.menu a {
+
+	text-decoration: none;
+	padding-right: 8%;
+	margin: auto;
+	color:  white;
+
+}
+
+.primero {
+			
+	padding-left: 28%;
+
+}
+
+.pie {	clear:  both;
+	background-color: navy;
+	color:  white;
+	width:  100%;
+	height: 40px;
+
+}
+
+.parrafoPie {
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 20px;
+	padding-top: 10px;
+	float: right;
+	padding-right: 10%;
+
+}
+
+
+
+
+/*HOME*/
+
+.temporada {
+
+	margin-left: 4%;
+
+}
+
+.cajaPortada {
+
+	width: 60%;
+
+}
+
+.portada {
+
+	float: left;
+	height: 500px;
+	width: 75%;
+	margin-left: 7%;
+	display:  block;
+	margin-bottom: 10px;
+
+}
+
+.caja {
+
+	float: left;
+	width: 40%;
+
+}
+
+.parrafoCaja {
+
+	padding-left: 20%;
+	text-align: justify;
+
+}
+
+
+
+
+/*MULTIMEDIA*/
+
+.multimedia {
+
+	margin-left: 5%;
+}
+
+.cajaVideo {
+
+	margin-left: 0px;
+}
+
+.video {
+
+	width: 65%;
+	height: 480px;
+	margin-left: 5%; 
+
+}
+
+.pieVideo {
+
+	margin-left: 5%;
+	margin-bottom: 5%;
+}
+
+
+/*CONTACTE*/
+
+.formulario1 {
+
+	width: 55%;
+	float: left;
+
+}
+
+.nombre, .email, .asunto {
+
+	display: block;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	width: 20%;
+	margin-bottom: 20px;
+	padding-left: 2%;
+
+}
+
+.texto {
+
+	display: block;
+	width: 50%;
+	height: 200px;
+	margin-bottom: 8px;
+}
+
+.boton {
+
+	background-color: dodgerblue;
+	color: white;
+	width: 8%;
+	border-radius: 10px;
+	border-color: dodgerblue;
+	margin-bottom: 20px;
+
+}
+
+.principal {
+
+	padding-left: 5%;
+}
+
+.mapa {
+
+	display: block;
+	float: left;
+	width:  40%;
+
+}
+
+#sede {
+
+	margin:  0px;
+}
+
+.mapa iframe {
+
+	width: 95%;
+	height: 350px;
+}
+
+
+/*FORMULARIO*/
+
+.bienvenida {
+
+        text-align: center;
+        padding-top: 3%;
+ }
+
+.formulario2 {
+
+            height: 329px;
+            width:  50%;
+            margin-right: 20%;
+            margin-left: 20%;
+            margin-top: 82px;
+           padding-left: 23%
+
+}
+
+.cajaFormulario {
+
+            margin-bottom: 5px;
+}
+
+.mensaje {
+
+            color:  red;
+
+}
+
+
+/*PARTITURAS*/
+
+.cuerpo {
+
+	margin:  0px;
+	font-family: Arial;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+table, td {
+
+	border: solid 1px;
+	margin-bottom: 3%;
+	text-align: center;
+
+}
+
+.titulos td {
+
+	background-color: navy;
+	color: white;
+
+}
+
+.cerrar {
+
+	background-color: dodgerblue;
+	color: white;
+	width: 10%;
+	border-radius: 10px;
+	border-color: dodgerblue;
+	margin-bottom: 3%;
+
+}
+
+
+			
